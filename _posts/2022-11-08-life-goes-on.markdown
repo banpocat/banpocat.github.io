@@ -13,5 +13,5 @@ title: "Life goes on"
    
 <pre>
 Q: 휴가 가려면?
-A: Google 캘린더에 일정을 기록하면 됩니다. 블라~ 블라~
+A: Google 캘린더에 일정을 기록하면 됩니다. 어쩌구~ 저쩌구~
 </pre>
