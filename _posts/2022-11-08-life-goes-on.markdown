@@ -10,5 +10,7 @@ title: "Life goes on"
 
 온보딩용 Q&A 챗봇을 하나 만들어 보고 싶다.
 
+<pre>
 Q: 휴가 가려면?
 A: Google 캘린더에 일정을 기록하면 됩니다. 블라~ 블라~
+</pre>
